@@ -1,8 +1,8 @@
 #!/bin/sh
 echo "Ansible Entrypoint"
 
-echo "[SPE-VM01]" >> /hosts
-echo "20.213.234.81" >> /hosts
+echo "[SPE-VM02]" >> /hosts
+echo "20.213.234.100" >> /hosts
 
 echo "[all:vars]" >> /hosts
 echo "ansible_connection=ssh" >> /hosts
