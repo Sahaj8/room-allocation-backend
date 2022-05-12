@@ -6,6 +6,7 @@ log4js.configure({
   appenders: {
     error: { type: "file", filename: "log/rooms_error.log" },
     info: { type: "file", filename: "log/rooms_info.log" },
+    cons: { type: "console", target: "SYSTEM_OUT" }
   },
   categories: {
     default: {
@@ -17,7 +18,7 @@ log4js.configure({
       level: "error",
     },
     info: {
-      appenders: ["info"],
+      appenders: ["info", "cons"],
       level: "info",
     },
   },
