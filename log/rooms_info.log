@@ -130,3 +130,18 @@
 [2022-05-12T10:32:53.934] [INFO] info - Request POST /rooms/update/:id Status 201 OK
 [2022-05-12T10:32:53.993] [INFO] info - Request DELETE /rooms/delete/:id
 [2022-05-12T10:32:54.026] [INFO] info - Request DELETE /rooms/delete/:id Status 201 OK
+[2022-05-12T13:00:33.231] [INFO] info - Server connected on port: 4000
+[2022-05-12T13:03:07.025] [INFO] info - Request GET /activity/
+[2022-05-12T13:03:07.065] [INFO] info - Request GET /activity/ Status code 200 OK
+[2022-05-12T13:04:41.950] [INFO] info - Request GET /activity/
+[2022-05-12T13:04:41.982] [INFO] info - Request GET /activity/ Status code 200 OK
+[2022-05-12T13:09:16.248] [INFO] info - Server connected on port: 4000
+[2022-05-12T13:09:28.529] [INFO] info - Request GET /activity/
+[2022-05-12T13:09:28.575] [INFO] info - Request GET /activity/ Status code 200 OK
+[2022-05-12T13:11:11.849] [INFO] info - Server connected on port: 4000
+[2022-05-12T13:11:14.709] [INFO] info - Request GET /activity/
+[2022-05-12T13:11:14.750] [INFO] info - Request GET /activity/ Status code 200 OK
+[2022-05-12T13:11:56.889] [INFO] info - Server connected on port: 4000
+[2022-05-12T13:11:58.908] [INFO] info - Request GET /activity/
+[2022-05-12T13:11:58.964] [INFO] info - Request GET /activity/ Status code 200 OK
+[2022-05-12T13:22:29.448] [INFO] info - Server connected on port: 4000

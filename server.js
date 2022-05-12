@@ -6,6 +6,7 @@ import * as Sentry from "@sentry/node";
 import * as Tracing from "@sentry/tracing";
 import { infoLogger } from './logger.js';
 import { errorLogger } from './logger.js';
+import 'newrelic';
 
 const app = express();
 
